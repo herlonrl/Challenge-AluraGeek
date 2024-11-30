@@ -20,6 +20,6 @@ Alura Geek é um aplicativo desenvolvido como parte do Alura Latam e Oracle Next
 
 
 
-## Licencia
+## Licença
 
-Distribuido bajo licencia GPL. Ver `LICENSE.txt` para más información.
+Distribuído sob licença GPL. Consulte LICENSE.txt para obter mais informações.
